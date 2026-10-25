@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+
+# 本地目录（按需求不上传）
+vendor/
+skills/
+workspace/
+
+# 日志与临时文件
+*.log
